@@ -31,7 +31,7 @@ DEPENDENCIES = [
     'msrestazure>=0.4.14,<1',
     'azure-batch>=4.0,<5',
     'azure-mgmt-batch>=4.0,<5',
-    'azure-storage>=0.32,<0.35',
+    'azure-storage-blob>=1.0.0',
     'azure-mgmt-storage>=1.0,<2'
 ]
 DEPENDENCIES_27 = {
